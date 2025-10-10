@@ -102,12 +102,7 @@ if menu == "Home":
             "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True
         )
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Bayessian terinspirasi dari Teorema Bayes, yang mengajarkan bahwa pemahaman manusia selalu berkembang seiring hadirnya informasi baru. Setiap individu datang dengan “prior” berupa pengalaman awal, kemudian diperkaya dengan “evidence” dari interaksi, pembelajaran, dan dinamika bersama, hingga melahirkan “posterior” berupa cara pandang dan karakter yang lebih matang. Filosofi ini menegaskan bahwa proses tumbuh dan belajar tidak pernah berhenti, melainkan terus diperbarui agar setiap anggota Bayessian senantiasa adaptif, visioner, dan siap menghadapi tantangan zaman.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
